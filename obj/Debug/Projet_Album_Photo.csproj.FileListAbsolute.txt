@@ -1,0 +1,9 @@
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\bin\Debug\Projet_Album_Photo.exe.config
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\bin\Debug\Projet_Album_Photo.exe
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\bin\Debug\Projet_Album_Photo.pdb
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.csprojResolveAssemblyReference.cache
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.Properties.Resources.resources
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.csproj.GenerateResource.Cache
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.exe
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.pdb
+c:\users\laurent\documents\visual studio 2012\Projects\Projet_Album_Photo\Projet_Album_Photo\obj\Debug\Projet_Album_Photo.Form1.resources
